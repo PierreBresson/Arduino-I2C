@@ -1,4 +1,4 @@
-# Licences
+# Credits
 
 https://github.com/adafruit/Adafruit_MPL115A2
 
